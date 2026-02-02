@@ -1,7 +1,7 @@
-### 🌍 WanderLust Project 🏡
+# 🌍 WanderLust – Travel Listing Web Application
 
-#### Project Summary
-**WanderLust** is a comprehensive Full Stack Web Development project designed to facilitate the browsing and booking of vacation accommodations, including houses, villas, and farmhouses. This platform allows users to add their own properties to the listing, providing a diverse range of options for potential renters. 
+WanderLust is a full-stack travel listing platform where users can explore destinations, create listings, upload images, and manage their own travel spots. It’s built using Node.js, Express, MongoDB, and EJS with cloud image storage.
+ 
 
 #### Front-end 🌐
 - **Technologies Used**: HTML, CSS, JavaScript, Bootstrap, EJS
@@ -39,7 +39,7 @@
 #### Deployment 🚀
 The WanderLust project has been deployed using Render, connected with MongoDB Atlas for database management.
 
-- **Live Application**: [WanderLust Project](wanderlust-1-52ig.onrender.com)
+🚀 **Live Demo:** https://wanderlust-1-52ig.onrender.com  
 
 #### Authors ✍️
 - **@ritzraj-23**
